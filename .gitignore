@@ -1,0 +1,6 @@
+# Banco de dados local: muda a cada uso e guarda dados pessoais de clientes (LGPD)
+techbairro.db
+
+# Arquivos que o Python gera sozinho
+__pycache__/
+*.pyc
